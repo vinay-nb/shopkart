@@ -12,7 +12,7 @@ function TopHeader() {
           <span> Return Policy </span>
         </div>
         <div className="right-heading">
-          <div className="right-menu">
+          <div className="right-menu-1">
             <span>Login</span>
             <span> Follow US</span>
             <img src="facebook.png" alt="facebook" />
